@@ -1,6 +1,18 @@
 # mastr2sql
 Transform Marktstammdatenregister (MaStR) data into an SQLite database
 
+## Why?
+
+With the surge of solar installtions in Germany, it has been a topic of many discussions.
+As I was curious about this topic, I wanted to dig deeper into the public data.
+As it is published in the most inconvenient format possible (UTF-16 encoded XML), I decided to write this tool to turn it into a database.
+
+## Terms of use
+
+This piece of software comes with no guarantees whatsoever. Use at your own risk.
+If you identify any major issues or if you have any cool expansion ideas, please create a GitHub issue.
+It is published under the MIT license, so you can pretty much use it as you like.
+
 ## How to use
 
 ### Build the binary
